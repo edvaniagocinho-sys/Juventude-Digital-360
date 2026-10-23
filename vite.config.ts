@@ -12,6 +12,8 @@ export default defineConfig(() => {
       VitePWA({
         registerType: 'autoUpdate',
         includeAssets: [
+          'assets/aistudio/logo_emblem_transparent.png',
+          'assets/aistudio/logo_transparent.png',
           'assets/aistudio/IMG-20261024-WA0000_dc5ff260.jpg',
           'favicon.ico'
         ],
@@ -27,15 +29,15 @@ export default defineConfig(() => {
           scope: '/',
           icons: [
             {
-              src: '/assets/aistudio/IMG-20261024-WA0000_dc5ff260.jpg',
+              src: '/assets/aistudio/logo_emblem_transparent.png',
               sizes: '512x512',
-              type: 'image/jpeg',
+              type: 'image/png',
               purpose: 'any'
             },
             {
-              src: '/assets/aistudio/IMG-20261024-WA0000_dc5ff260.jpg',
+              src: '/assets/aistudio/logo_emblem_transparent.png',
               sizes: '192x192',
-              type: 'image/jpeg',
+              type: 'image/png',
               purpose: 'any'
             }
           ]

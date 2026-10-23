@@ -450,9 +450,9 @@ export const CVBuilderModal: React.FC<CVBuilderModalProps> = ({ isOpen, onClose 
                   </div>
                 </div>
                 <img
-                  src="/assets/aistudio/IMG-20261024-WA0000_dc5ff260.jpg"
+                  src="/assets/aistudio/logo_emblem_transparent.png"
                   alt="JUVENTUDE DIGITAL 360°"
-                  className="h-14 w-auto object-contain rounded shrink-0 hidden sm:block"
+                  className="h-16 w-auto object-contain shrink-0 hidden sm:block"
                 />
               </div>
 

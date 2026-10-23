@@ -195,9 +195,9 @@ export const AdminPage: React.FC<AdminPageProps> = ({
         <div className="bg-white p-8 rounded-2xl border border-neutral-200 shadow-md space-y-6 text-center">
           <div className="flex justify-center pb-1">
             <img
-              src="/assets/aistudio/IMG-20261024-WA0000_dc5ff260.jpg"
+              src="/assets/aistudio/logo_emblem_transparent.png"
               alt="JUVENTUDE DIGITAL 360°"
-              className="h-16 w-auto object-contain rounded-lg"
+              className="h-20 w-auto object-contain"
             />
           </div>
 
