@@ -1,0 +1,6 @@
+{
+  "name": "JUVENTUDE DIGITAL 360°",
+  "description": "Portal de tecnologia, conhecimento e oportunidades para os jovens de Moçambique, com foco inicial na Zambézia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
